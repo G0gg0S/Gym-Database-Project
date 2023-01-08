@@ -397,7 +397,6 @@ def update():
             print("Provide me with the Administration ID")
     ids = input()
     ids = ids.split(",")
-    print(ids)
     print_dashes()
     if(len(relationIds)!=len(ids)):
         print("Your command DID NOT executed because of input Error! Check your inputs and try again.")
@@ -539,10 +538,8 @@ def query():
     print("Query func was called")
     print("Provide the SQLite query.")
     query = input()
-    query_tab = query.split( )
-    print(query_tab)
-    print("The query you inserted: {0}".format(query))
-    
+    print_dashes()
+    print("The query you inserted: {0}".format(query))    
     try:
         cursor.execute(query)
         data = cursor.fetchall()
@@ -559,6 +556,7 @@ def query():
     except sqlite3.Error as er:
         print("Your command DID NOT executed because of input Error! Check your inputs and try again. The following error was generated.")
         print(er)
+    
     continue_message()
 
 def continue_message():
@@ -586,8 +584,7 @@ while(os.path.exists("Gym_database.db")):
 
     if(action == "Q"):
         print("Q pressed")
-        break
-    
+        break    
 
     match action:
         case "I":
