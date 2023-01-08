@@ -3,6 +3,11 @@
 In order to execute the script Python is needed to be installed on the machine.
 Python 3.11.1 was used and can be downloaded from [here](https://www.python.org/downloads/)
 
+## Contents
+- [Gym Database creation python file](https://github.com/G0gg0S/Gym-Database-Project/blob/master/create_database.py)
+- [Database fake data insertion python file](https://github.com/G0gg0S/Gym-Database-Project/blob/master/insert_dummy_data.py)
+- [User interface application python file](https://github.com/G0gg0S/Gym-Database-Project/blob/master/db_interface.py)
+
 ## Execution instructions
 - Clone this repository on your desired location.
 - Open Command Prompt and navigate the downloaded repository folder.
