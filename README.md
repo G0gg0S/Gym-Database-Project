@@ -28,3 +28,17 @@ Python 3.11.1 was used and can be downloaded from [here](https://www.python.org/
 - Finally you should provided the requested data to complete the insertion.
 
 ![Screenshot_3](https://user-images.githubusercontent.com/40723677/211214842-08c3d295-313a-4e1e-81d2-68b7dbd0ecc3.png)
+
+## Delete procedure example
+- Once you run the interface script it will request you for the desired action. We typed ***D*** for insertion.
+![Screenshot_4](https://user-images.githubusercontent.com/40723677/211215188-0a0a2734-d220-4405-b961-265244a2a03f.png)
+
+- Then you should enter the category you would like to have an deletion at. We typed ***6*** for ***Equipment*** deletion
+
+![Screenshot_1](https://user-images.githubusercontent.com/40723677/211215171-d434ad3a-39e1-4baf-99ca-dace6d845b5a.png)
+
+- Finally you should provided the requested ID to complete the deletion. We typed ***1*** to delete the ***Equipment*** with ***ID = 1***
+ 
+![Screenshot_2](https://user-images.githubusercontent.com/40723677/211215178-2f5ad9f5-8f9d-4882-a4b1-c27abe73cf1a.png)
+
+## Update procedure example 
