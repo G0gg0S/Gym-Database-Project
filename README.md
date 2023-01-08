@@ -31,6 +31,7 @@ Python 3.11.1 was used and can be downloaded from [here](https://www.python.org/
 
 ## Delete procedure example
 - Once you run the interface script it will request you for the desired action. We typed ***D*** for insertion.
+
 ![Screenshot_4](https://user-images.githubusercontent.com/40723677/211215188-0a0a2734-d220-4405-b961-265244a2a03f.png)
 
 - Then you should enter the category you would like to have an deletion at. We typed ***6*** for ***Equipment*** deletion
@@ -42,3 +43,23 @@ Python 3.11.1 was used and can be downloaded from [here](https://www.python.org/
 ![Screenshot_2](https://user-images.githubusercontent.com/40723677/211215178-2f5ad9f5-8f9d-4882-a4b1-c27abe73cf1a.png)
 
 ## Update procedure example 
+- Once you run the interface script it will request you for the desired action. We typed ***U*** for insertion.
+
+![Screenshot_3](https://user-images.githubusercontent.com/40723677/211215605-03d161c1-bbf6-47d6-98a5-92f3c2d4748e.png)
+
+- Then you should enter the category you would like to have an update at. We typed ***6*** for ***Gym*** update
+
+![Screenshot_1](https://user-images.githubusercontent.com/40723677/211215657-c16e28bb-bec1-4a36-8f99-9c23177d5592.png)
+
+- You should provide the requested ID to update. We typed ***1*** to update.
+
+![Screenshot_2](https://user-images.githubusercontent.com/40723677/211215707-f1f9d74a-692c-4bc6-916e-892b0a8c0047.png)
+
+- The you should provide which attributes to update. We picked ***2,3*** for ***Town and Capacity***
+
+![Screenshot_4](https://user-images.githubusercontent.com/40723677/211215794-04ac426c-00f1-4204-86fd-d7384a693e87.png)
+
+- Finally you should insert the updated values. We typed ***Patras*** and ***300*** for ***Town*** and ***Capacity*** respectively.
+
+![Screenshot_5](https://user-images.githubusercontent.com/40723677/211215854-7105ee65-c9b8-4db7-8776-7efa554995c3.png)
+
