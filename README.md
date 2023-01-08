@@ -63,3 +63,16 @@ Python 3.11.1 was used and can be downloaded from [here](https://www.python.org/
 
 ![Screenshot_5](https://user-images.githubusercontent.com/40723677/211215854-7105ee65-c9b8-4db7-8776-7efa554995c3.png)
 
+## Query insertion procedure example 
+
+- Once you run the interface script it will request you for the desired action. We typed ***C*** for query insertion.
+
+![Screenshot_1](https://user-images.githubusercontent.com/40723677/211215982-a052dbd4-02e9-4b06-87a1-a02748295dbb.png)
+
+- Then you should provide the desired query for execution. We requested all the available information for the Gyms
+
+![Screenshot_2](https://user-images.githubusercontent.com/40723677/211216041-000943ec-a248-40e5-99a3-cbf344284595.png)
+
+- The results are the following!!!
+
+![Screenshot_3](https://user-images.githubusercontent.com/40723677/211216055-29a97886-7bd3-4c72-bda0-8f87315607bd.png)
