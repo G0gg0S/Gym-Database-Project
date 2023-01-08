@@ -494,7 +494,7 @@ def update():
     data_to_change = input();
     print_dashes()
     data_to_change = data_to_change.split(",")
-    print("Insert the updated data separated with comma")
+    print("Insert the updated data separated with commas")
     new_data = input();
     print_dashes()
     new_data = new_data.split(",")    

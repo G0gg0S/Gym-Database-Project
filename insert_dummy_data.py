@@ -3,15 +3,6 @@ import sqlite3, csv
 connection = sqlite3.connect("Gym_database.db")
 cursor = connection.cursor()
 
-# Inserting data for the Gym Table with IDs
-# with open('data/Gym_w.csv', 'r') as file:
-#     no_records = 0
-#     for row in file:
-#         cursor.execute("INSERT INTO Gym VALUES (?, ?, ?, ?, ?, ?)", row.split(","))
-#         connection.commit()
-#         no_records += 1
-# print("Gym data inserted")
-
 # Inserting data for the Administration Table
 with open('data/Administration.csv', 'r') as file:
     no_records = 0
